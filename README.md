@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![image](typescript.png)
 <!--
 **Findiepman/Findiepman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
