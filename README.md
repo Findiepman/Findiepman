@@ -1,5 +1,13 @@
 ## Hi there 👋
+
+## My Skills:
 <img src="typescript.png" width="32" height="32">
+<img src="javascript.png" width="32" height="32">
+<img src="html.png" width="32" height="32">
+<img src="css.png" width="32" height="32">
+<img src="python.jpg" width="32" height="32">
+<img src="git.png" width="32" height="32">
+  
 <!--
 **Findiepman/Findiepman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
