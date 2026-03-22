@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi i'm Fin
+
+I am a 16 year old high school student who's from the Netherlands. I like writing in Typescript and i'm currently working with ReactJS
+
+
+# My current project
+I am currently working on building an <a href="https://github.com/Findiepman/invoice-generator">invoice generator</a> I'm building this in ReactJS and Typescript.
 
 ## My Skills:
 <img src="typescript.png" width="32" height="32"> <img src="javascript.png" width="32" height="32"> <img src="html.png" width="32" height="32"> <img src="css.jpg" width="32" height="32"> <img src="python.jpg" width="32" height="32"> <img src="git.png" width="32" height="32">
