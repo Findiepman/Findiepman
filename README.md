@@ -7,7 +7,6 @@ I like writing in Typescript and i'm currently working with ReactJS
 I am currently working on building an <a href="https://github.com/Findiepman/invoice-generator">invoice generator</a> I'm building this in ReactJS and Typescript.
 
 ## About me
-I'm in 10th grade HAVO and after i finish high school im going to study HBO ICT.
 I like playing games such as GTA V and Jurassic World Evolution 3.
 I'm currently learning how to work with ReactJs and a little bit of NodeJS
 How to reach me? My email adress is fin@diepman.com
