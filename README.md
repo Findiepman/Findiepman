@@ -1,6 +1,6 @@
 ## Hi i'm Fin
 
-I am a 16 year old high school student who's from the Netherlands. I like writing in Typescript and i'm currently working with ReactJS
+I like writing in Typescript and i'm currently working with ReactJS
 
 
 ## My current project
