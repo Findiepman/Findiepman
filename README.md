@@ -2,11 +2,10 @@
 
 
 ## About me
-My name is Fin. i am a Dutch student who loves to code. I really like learning new things and love figuring out how everything works. I've worked in web development (full stack) minecraft development and wants to learn application development (Outside of the web) I really like computers both sides of it. The hardware and software. I like playing video games. My favorite solo game is Project Zomboid. I really like learning new languages and i am currently building a <a href="https://github.com/Findiepman/Pc-builder">pc-partpicker game</a> with the backend being written in GO and the frontend in vanilla Javascript.
+My name is Fin, a Dutch student who loves to code. I like learning new things and figuring out how stuff works under the hood. I've worked in full stack web development and Minecraft development, and I want to branch into application development outside the web too. I'm into computers on both sides, hardware and software, and I play video games in my downtime. My favorite solo game is Project Zomboid.
 
 ## My stack
-I have experience working with these languages/tools (This list will probably keep growing)
-
+I have experience working with these languages and tools (This list will probably keep growing)
 * Javascript/Typescript
 * GO
 * Python
@@ -18,7 +17,18 @@ I have experience working with these languages/tools (This list will probably ke
 * Claude Code
 
 ## Things i wanna learn
-I really wanna learn **C** or **C++** and build something low-level with it. I also would wanna learn **rust** but i'm not sure about that yet. I also really wanna get better at working with NodeJS and Java. 
+C or C++, to build something low-level. I also want to get better at Java and NodeJS
+
+## My Projects
+Most of my projects are minecraft development related but here are my favorites that aren't:
+* [Strongroom](https://github.com/Findiepman/Strongroom) My own Cloud storage hosted fully on my own server. Built with Javascript and NodeJS
+* [Kivo Roadmap](https://github.com/Findiepman/Kivo-Roadmap) My own version of Trello
+
+More can be found on my [Website](www.findiepman.dev)
+
+**How to reach me**?
+Send me an email: fin@findiepman.dev
+Visit my [Website!](www.findiepman.dev)
 
 
 
