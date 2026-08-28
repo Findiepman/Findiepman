@@ -27,8 +27,8 @@ Most of my projects are minecraft development related but here are my favorites 
 More can be found on my [Website](www.findiepman.dev)
 
 **How to reach me**?
-Send me an email: fin@findiepman.dev
-Visit my [Website!](www.findiepman.dev)
+Send me an email: fin@findiepman.dev  
+Visit my [Website!](www.findiepman.dev)  
 
 
 
