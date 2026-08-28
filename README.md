@@ -7,3 +7,5 @@ My favorite language: Javascript/Typescript
 
 My favorite game: GTA V
 
+The language i'm currently learning: GO (golang)
+
