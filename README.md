@@ -28,6 +28,9 @@ Most of my projects are minecraft development related but here are my favorites 
 * [Kivo Roadmap](https://github.com/Findiepman/Kivo-Roadmap) My own version of trello currently being used for school projects. Running on my own server.
 * [Nexus Tickets](https://github.com/Findiepman/NexusTickets) A discord bot for tickets. It's super easy to use and easy to set up
 
+### Minecraft work
+All of my minecraft work can be found on my website! Link: [Click me to view all minecraft work!](https://www.findiepman.dev/minecraft)
+
 More can be found on my [Website](https://www.findiepman.dev)
 
 **How to reach me**?
