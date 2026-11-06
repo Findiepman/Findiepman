@@ -2,7 +2,7 @@
 
 
 ## About me
-My name is Fin, a Dutch student who loves to code. I like learning new things and figuring out how stuff works under the hood. I've worked in full stack web development and Minecraft development, and I want to branch into application development outside the web too. I'm into computers on both sides, hardware and software, and I play video games in my downtime. My favorite solo game is Project Zomboid.
+My name is Fin. I'm a Dutch student thats learning to code and work with AI. I'm gonna start studying computer science next year. I currently work a lot with Claude Code, building a lot of large scale applications and running the backends on my own server. I really enjoy making these big things because I get them done fast and I actually use them. I also play a lot of games like Minecraft and Project Zomboid. 
 
 ## My stack
 I have experience working with these languages and tools (This list will probably keep growing)
