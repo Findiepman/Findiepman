@@ -17,7 +17,7 @@ I have experience working with these languages and tools (This list will probabl
 * Claude Code
 
 ## My current Project
-I am currently working on a remake of my [vibe coded pc part picker game](https://github.com/Findiepman/Pc-building-simulator). I am rewriting this with a backend in GO. It's about **55%** done. It currently features over **230 parts** with accurate specs and pricing. I finished most of the frontend and started working on the account creation system. [Visit the repo!](https://github.com/Findiepman/Pc-builder) I am building this with GO as backend to learn the language.
+Doing lots of stuff.
 
 ## Things i wanna learn
 C or C++, to build something low-level. I also want to get better at Java and NodeJS
