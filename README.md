@@ -20,13 +20,14 @@ I have experience working with these languages and tools (This list will probabl
 Doing lots of stuff.
 
 ## Things i wanna learn
-C or C++, to build something low-level. I also want to get better at Java and NodeJS
+I want to master one single language and apply that in my future. There are many languages I wanna learn like Rust, C, C++ and more. I'm confident I will learn all of this when i start HBO ICT (Dutch version of computer science) next year.
 
 ## My Projects
 Most of my projects are minecraft development related but here are my favorites that aren't:
 * [Strongroom](https://github.com/Findiepman/Strongroom) My own Cloud storage hosted fully on my own server. Built with Javascript and NodeJS.
 * [Kivo Roadmap](https://github.com/Findiepman/Kivo-Roadmap) My own version of Trello currently being used for school projects. Running on my own server.
 * [BackTrack](https://github.com/Findiepman/backtrack) A lightweight performance focused clipping software built in C++ 
+* [Cipher](https://github.com/Findiepman/Cipher) A secure messaging system with full encryption to ensure nobody but you and the receiver can read the messages. [Try it out!](https://cipher.findiepman.dev)
 
 ### Minecraft work
 All of my minecraft work can be found on my website! Link: [Click me to view all minecraft work!](https://www.findiepman.dev/minecraft)
