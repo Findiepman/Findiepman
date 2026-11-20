@@ -10,7 +10,6 @@ I have experience working with these languages and tools (This list will probabl
 * GO
 * Python
 * HTML/CSS
-* Skript (Minecraft plugin for minecraft development)
 * Github/Git
 * Linux
 * C#
@@ -28,11 +27,6 @@ Most of my projects are minecraft development related but here are my favorites 
 * [Kivo Roadmap](https://github.com/Findiepman/Kivo-Roadmap) My own version of Trello currently being used for school projects. Running on my own server.
 * [BackTrack](https://github.com/Findiepman/backtrack) A lightweight performance focused clipping software built in C++ 
 * [Cipher](https://github.com/Findiepman/Cipher) A secure messaging system with full encryption to ensure nobody but you and the receiver can read the messages. [Try it out!](https://cipher.findiepman.dev)
-
-### Minecraft work
-All of my minecraft work can be found on my website! Link: [Click me to view all minecraft work!](https://www.findiepman.dev/minecraft)
-
-More can be found on my [Website](https://www.findiepman.dev)
 
 **How to reach me**?
 Send me an email: fin@findiepman.dev  
