@@ -16,7 +16,7 @@ I have experience working with these languages and tools (This list will probabl
 * Claude Code
 
 ## My current Project
-Doing lots of stuff.
+Working on improving [Strongroom](https://github.com/Findiepman/Strongroom) A free and open source piece of cloud software. You can set it up on your home server and have a neat looking web dashboard to manage your files.
 
 ## Things i wanna learn
 I want to master one single language and apply that in my future. There are many languages I wanna learn like Rust, C, C++ and more. I'm confident I will learn all of this when i start HBO ICT (Dutch version of computer science) next year.
